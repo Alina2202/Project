@@ -1,0 +1,168 @@
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe.config
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\bin\Debug\SQLWPF.pdb
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.AssemblyReference.cache
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\App.g.cs
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.cache
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.lref
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\MainWindow.baml
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF.g.resources
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF.Properties.Resources.resources
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.GenerateResource.cache
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.CoreCompileInputs.cache
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF.exe
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF.pdb
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\bin\Debug\Database.mdf
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\bin\Debug\Database_log.ldf
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\Window1.g.cs
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\Window2.g.cs
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\SQLWPF_Content.g.cs
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\Window1.baml
+C:\Users\alian\source\repos\SQLWPF\SQLWPF\obj\Debug\Window2.baml
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\Database.mdf
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\Database_log.ldf
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe.config
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\SQLWPF.pdb
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csprojAssemblyReference.cache
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window1.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window2.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\App.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF_Content.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.cache
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.lref
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\MainWindow.baml
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window1.baml
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window2.baml
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.g.resources
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.Properties.Resources.resources
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.GenerateResource.cache
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.CoreCompileInputs.cache
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.exe
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.pdb
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\Database1.mdf
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\Database1_log.ldf
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Show.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window3.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Show.baml
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window3.baml
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Poisk.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Poisk.baml
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\Database.mdf
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\Database_log.ldf
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe.config
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\bin\Debug\SQLWPF.pdb
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.AssemblyReference.cache
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Poisk.g.cs
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Show.g.cs
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window1.g.cs
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window2.g.cs
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window3.g.cs
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\App.g.cs
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF_Content.g.cs
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.cache
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.lref
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\MainWindow.baml
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Poisk.baml
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Show.baml
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window1.baml
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window2.baml
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\Window3.baml
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.g.resources
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.Properties.Resources.resources
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.GenerateResource.cache
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.CoreCompileInputs.cache
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.exe
+C:\Users\alian\OneDrive\Рабочий стол\SQLWPF\SQLWPF\obj\Debug\SQLWPF.pdb
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\bin\Debug\Database.mdf
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\bin\Debug\Database_log.ldf
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe.config
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\bin\Debug\SQLWPF.pdb
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.AssemblyReference.cache
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\MainWindow.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Poisk.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Show.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Window1.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Window2.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Window3.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\App.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF_Content.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.cache
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.lref
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\MainWindow.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Poisk.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Show.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Window1.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Window2.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\Window3.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF.g.resources
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF.Properties.Resources.resources
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.GenerateResource.cache
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.CoreCompileInputs.cache
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF.exe
+C:\Учеба\3курс\Технологии программирования\SQLWPF\SQLWPF\obj\Debug\SQLWPF.pdb
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csprojAssemblyReference.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Poisk.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Show.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Tetris\tetris.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Window1.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Window2.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Window3.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\App.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF_Content.g.cs
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.lref
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF.exe
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF.pdb
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\bin\Debug\Database.mdf
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\bin\Debug\Database_log.ldf
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe.config
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\bin\Debug\SQLWPF.exe
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\bin\Debug\SQLWPF.pdb
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\MainWindow.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Poisk.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Show.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Tetris\tetris.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Window1.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Window2.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\Window3.baml
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF.g.resources
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF.Properties.Resources.resources
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.GenerateResource.cache
+C:\Users\shapo\OneDrive\Рабочий стол\Проект\SQLWPF\SQLWPF\obj\Debug\SQLWPF.csproj.CoreCompileInputs.cache
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\bin\Debug\Database.mdf
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\bin\Debug\Database_log.ldf
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\bin\Debug\SQLWPF.exe.config
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\bin\Debug\SQLWPF.exe
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\bin\Debug\SQLWPF.pdb
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF.csproj.AssemblyReference.cache
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\MainWindow.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Poisk.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Show.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Tetris\tetris.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Window1.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Window2.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Window3.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\App.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF_Content.g.cs
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.cache
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF_MarkupCompile.lref
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\MainWindow.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Poisk.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Show.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Tetris\tetris.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Window1.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Window2.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\Window3.baml
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF.g.resources
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF.Properties.Resources.resources
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF.csproj.GenerateResource.cache
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF.csproj.CoreCompileInputs.cache
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF.exe
+C:\Учеба\3курс\Технологии программирования\SQLWPF с игрой\SQLWPF\obj\Debug\SQLWPF.pdb

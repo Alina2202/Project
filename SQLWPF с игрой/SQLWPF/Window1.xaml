@@ -1,0 +1,45 @@
+﻿<Window x:Class="SQLWPF.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SQLWPF"
+        mc:Ignorable="d"
+        Title="Преподаватели" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="22*"/>
+            <ColumnDefinition Width="80*"/>
+            <ColumnDefinition Width="691*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Height="35" Margin="57.6,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" PreviewTextInput="TextBox1_PreviewTextInput" Grid.Column="2"/>
+        <TextBox x:Name="TextBox2" HorizontalAlignment="Left" Height="35" Margin="57.6,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" PreviewTextInput="TextBox2_PreviewTextInput" Grid.Column="2"/>
+        <TextBox x:Name="TextBox3"  HorizontalAlignment="Left" Height="35" Margin="57.6,111,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" PreviewTextInput="TextBox3_PreviewTextInput" Grid.Column="2"/>
+        <DatePicker Name="TextBox4" SelectedDate="{Binding Date, StringFormat='dd/MM/yyyy'}" Margin="57.6,164,453.6,215" Grid.Column="2"/>
+        <ComboBox Name="TextBox5" HorizontalAlignment="Left" Height="35" Margin="57.6,218,0,0" VerticalAlignment="Top" Width="180" Grid.Column="2">
+            <ComboBoxItem >Декан кафедры</ComboBoxItem>
+            <ComboBoxItem >Заместитель декана</ComboBoxItem>
+            <ComboBoxItem >Заместитель декана по научной работе</ComboBoxItem>
+            <ComboBoxItem >Заведующий кафедрой</ComboBoxItem>
+            <ComboBoxItem >Профессор кафедры</ComboBoxItem>
+            <ComboBoxItem >Доцент кафедры</ComboBoxItem>
+            <ComboBoxItem >Старший преподаватель</ComboBoxItem>
+            <ComboBoxItem >Ассистент кафедры</ComboBoxItem>
+        </ComboBox>
+        <ComboBox Name="TextBox6" HorizontalAlignment="Left" Height="35" Margin="57.6,273,0,0" VerticalAlignment="Top" Width="180" Grid.Column="2">
+            <ComboBoxItem >нет</ComboBoxItem>
+            <ComboBoxItem >Кандидат наук</ComboBoxItem>
+            <ComboBoxItem >Доктор наук</ComboBoxItem>
+        </ComboBox>
+        <TextBox x:Name="TextBox7" HorizontalAlignment="Left" Height="35" Margin="57.6,327,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180" PreviewTextInput="TextBox7_PreviewTextInput" Grid.Column="2"/>
+        <Button Content="Ввести" HorizontalAlignment="Left" Margin="391.6,327,0,0" VerticalAlignment="Top" Width="142" Height="35" Background="#FFF1F1F1" Click="Button_Click" FontSize="14" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,10,0,0" TextWrapping="Wrap" Text="Фамилия:" VerticalAlignment="Top" Height="30" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,60,0,0" TextWrapping="Wrap" Text="Имя:" VerticalAlignment="Top" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,111,0,0" TextWrapping="Wrap" Text="Отчество:" VerticalAlignment="Top" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,164,0,0" TextWrapping="Wrap" Text="Дата рождения:" VerticalAlignment="Top" Height="30" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,218,0,0" TextWrapping="Wrap" Text="Должность:" VerticalAlignment="Top" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,273,0,0" TextWrapping="Wrap" Text="Ученая степень:" VerticalAlignment="Top" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,327,0,0" TextWrapping="Wrap" Text="Зарплата:" VerticalAlignment="Top" Width="73" Grid.ColumnSpan="2" Grid.Column="1"/>
+
+    </Grid>
+</Window>
